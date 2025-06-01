@@ -10,7 +10,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px 130px;
+    padding: 34px 130px;
 }
 
 header nav {
@@ -24,4 +24,11 @@ header a {
     font-size: 18px;
     color: #030605;
     text-decoration: none;
+}
+
+header button {
+    padding: 16px 26px;
+    background-color: #28887A;
+    color: white;
+    border: none;
 }
